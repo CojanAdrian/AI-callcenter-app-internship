@@ -1,0 +1,10 @@
+{
+    "pizzas": [
+        "Pizza Rancho",
+        "Pizza Capricioasa",
+        "Pizza BARBEQUE"
+    ],
+    "delivery_method": "restaurant",
+    "address": "centru",
+    "name": "Vasile"
+}

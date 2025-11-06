@@ -1,0 +1,6 @@
+sounddevice
+deepgram-sdk
+openai
+elevenlabs
+websockets
+

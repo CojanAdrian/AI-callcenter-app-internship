@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ai-call-center-prototype",
+  "private_key_id": "af97605da82aaa50117cc34c61ba749a65c1ea28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUvx2lxp4DJWfJ\n4czbhBKsQKW8RPB8Qk+Kb/NtfLHgG5j44KJ3AY/21pBpuAbCapK2ZKN9dmjRqWYZ\n4tOjeS8c2A+YECtq2g7NTDWzQG4SyDwQh/9lEnYeQaulEt+P3oTBcGXDVi7cU3sB\nkjs20DjFzAi7DdPNFToZNxLdKzFKPRVl47OE0Rm9AesMu7UpgDJW1Tu/ewn50q0r\nucIn6+i95yjtYtnDPng41mxhHy8SMJHz1VY135IKKHU0VUuOfjBUOV0//D9rjNPM\n5/OGpsGlYBJgeJL3pU7IW9BxKBSUDjen02de7EnpiYLPxoVsMVwL20tRKVrJ7K94\nWPeOqUTFAgMBAAECggEABCx+sqino3SpqVyIdhsMebwn9D5fAHUVlef13OVIIRcx\nhFp13YNWlXdmrGhLm6dXGwR076pxyoE6C1J3p/qh6b00ax2QGH/QMAdpe0uNjUlH\n4mQkptE6p4PO0AWDhNFPBfOET5WChFiP7ns1tbDWmEzVNARErj6XHfUGZffptuTc\nNFlasRUD0z79atJ1gm6LGdl0d6rjZkot5CQYshtG6pL+knrxDyKH6/GNsgeyoCiq\nvFBqvM0bztcYM02vM3P07rYd4i5UpoFFmu08j9hbmPh5hgmyjcMcAaVAZenwOtO5\n9ZATu4Ra3mQ2YZGeLgrsH/cCYUfl+P6ELAFaITE1eQKBgQD+e5P1gVisT0123wor\nTSIp7QbKgxFNEi8TXmHcSgkxr6vWnWb7JxItZmPt1xYrSwn8Hd5jUny2Hy5CKn9p\nq8tYcJa5Q7S9zMbpV7s76hoHGzfpiri5uezlurPuwIfevVwjguGGH9++TwBMxUz6\ncju8fHmbT6gc1/CEcClkSBMjjQKBgQDWA9XILjyqGpC7S+6yjMOrc8zizSRJVp/u\nW7TQLHAszm+oO0YtikkNQPSugcspVn+Ohb6XdJCU8mnW+O83uPRfMp7jcNzefGSh\nfume9Lg+oXAWakm2AegK7Nn/bF17OU+2m05OPOQmTzVIme44ERXLlbnsE/dcVItk\nOIOSK/z8GQKBgQDk3sWCDjNuvN/BYfTmXre0Fz19UoVz2D/IXqEKmvdL3V9hZCyj\nAk+hzy1eUYvZoeI4AbDpiN0qej6DOW9f3SbDwnZ75n2eGZZndASrbO69p2gQvTdH\nqgR51AFRX4yS8aD1OxeTJgV3RdvSL7v8nlJFQXmpCen7DuZ8ZdeEHiJAXQKBgEu8\n9bYvLsbgOeIewC2uBT0y8Qo+oR3XKyg2iim14EjrEbbOq0pIiwvGthDf3B8X/nJY\nwJdm6BfeJjiuxjHJIapjBrnk4jVWfmJswI7Bekan6Tv1h3qC+DSNl6R+HCMUqDIu\niirD/9XS6D92QkjTOwxeQ3rZogup296u5VkgehpZAoGBAL85IjTkQET5t8i8L6+a\n8xQJe4feIwbD3sEeOhYAJhypSzsjIsRstQn2AJUjIksEjIAlyp34OYZt3hsE13uE\nXgnE0Mnn5uVBOy+4zv0lZuF6b2KDZ7HDu/Q9tLLe/y5WiQpvebzvV+sO8S1lSN16\naEW+qyl0peZPVus9BYBmuDQO\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-client@ai-call-center-prototype.iam.gserviceaccount.com",
+  "client_id": "116332144823691037080",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-client%40ai-call-center-prototype.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,9 @@
+{
+    "pizzas": [
+        "Rancho",
+        "Barbeque"
+    ],
+    "delivery_method": "restaurant",
+    "address": "centru",
+    "name": "Vasile Coadă"
+}

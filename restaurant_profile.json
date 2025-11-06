@@ -1,0 +1,69 @@
+{
+  "restaurant_name": "Pizzeria La Bunica",
+  "greeting": "Salut! Ai sunat la Pizzeria La Bunica. Cu ce vă putem ajuta?",
+  "languages_supported": [
+    "ro",
+    "en",
+    "ru"
+  ],
+  "menu": {
+    "pizza": [
+      {
+        "name": "Pizza Margherita",
+        "price": "25 RON",
+        "ingredients": [
+          "sos de roșii",
+          "mozzarella",
+          "busuioc"
+        ]
+      },
+      {
+        "name": "Pizza Quattro Stagioni",
+        "price": "35 RON",
+        "ingredients": [
+          "sos de roșii",
+          "mozzarella",
+          "șuncă",
+          "ciuperci",
+          "măsline",
+          "ardei"
+        ]
+      },
+      {
+        "name": "Pizza Diavola",
+        "price": "30 RON",
+        "ingredients": [
+          "sos de roșii",
+          "mozzarella",
+          "salam picant",
+          "ardei iute"
+        ]
+      }
+    ],
+    "drinks": [
+      {
+        "name": "Apă plată",
+        "price": "5 RON"
+      },
+      {
+        "name": "Coca-Cola",
+        "price": "7 RON"
+      },
+      {
+        "name": "Bere",
+        "price": "8 RON"
+      }
+    ]
+  },
+  "reservation_questions": [
+    "Care este numele dumneavoastră?",
+    "Pentru ce dată și oră doriți rezervarea?",
+    "Pentru câte persoane?",
+    "Doriți o masă în interior sau pe terasă?"
+  ],
+  "opening_hours": {
+    "luni-vineri": "10:00 - 22:00",
+    "sâmbătă": "12:00 - 23:00",
+    "duminică": "închis"
+  }
+}
