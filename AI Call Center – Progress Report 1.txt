@@ -1,0 +1,86 @@
+Business Data Analysis – Team Development Log
+
+ Team Members
+Vlad Buliga – Team Lead, Backend Developer, Algorithm Architect
+
+Adrian – Backend Developer, API Integration
+
+Chiril – QA/Testing Lead
+
+Dana – Backend Assistant Developer (Data Models & Validation)
+
+Bianca – Backend Developer (Dialog Flow Logic)
+
+Augustin – Backend Developer (Audio Processing Pipeline)
+
+---
+
+ Overview (Month 1)
+During the first development month, our team built the foundation of the AI Call Center backend system.
+We focused on creating the core architecture, backend pipeline, and basic conversational logic.
+
+Main objective:
+Build a functional backend prototype capable of handling a simple voice interaction end-to-end.
+
+---
+
+ Work Completed
+System Architecture (Vlad & Adrian)
+Designed modular backend structure using Python FastAPI.
+Defined service boundaries:
+Speech-to-Text Service
+AI Conversation Engine
+Text-to-Speech Service
+Call Session Manager
+Prepared the system for future scalability.
+
+---
+
+Core Backend Pipeline (Vlad & Adrian)
+Implemented /stt, /ai, and /tts endpoints.
+Added session-based communication.
+Created prototype memory for conversation state.
+Built early restaurant-ordering workflow logic.
+
+---
+
+AI Algorithm Research (Vlad)
+Designed early intent detection module.
+Implemented a response-ranking heuristic.
+Explored GPT-based API integration.
+Developed keyword-based intent classifier.
+
+---
+
+Audio Processing Pipeline (Augustin)
+Added audio normalization and format handling.
+Integrated FFmpeg for preprocessing.
+Built initial audio input/output handling logic.
+---
+
+Dialog Flow Logic (Bianca)
+Created first version of dialog state manager.
+Built decision tree for restaurant interaction.
+Ensured compatibility with intent detection module.
+
+---
+
+Data Models & Validation (Dana)
+Built Pydantic models:
+CallSession, UserMessage, AIResponse, IntentClassification
+Implemented structured error handling.
+Ensured data validation on all endpoints.
+
+---
+
+Testing & QA (Chiril)
+Implemented automated backend tests.
+Performed Postman-based functional tests.
+Created bug reports and stability notes.
+Validated STT and TTS response consistency.
+
+---
+
+ Summary
+By the end of Month 1, we delivered a functional backend prototype capable of handling a full voice interaction in a controlled environment.
+Every team member contributed directly to backend development and infrastructure .

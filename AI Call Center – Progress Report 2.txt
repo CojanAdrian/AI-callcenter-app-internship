@@ -1,0 +1,98 @@
+Business Data Analysis – Team Development Log
+
+ Team Members
+Vlad Buliga – Team Lead, Backend Developer, Algorithm Architect
+
+Adrian – Backend Developer, API Gateway & Integrations
+
+Chiril – QA/Testing Lead
+
+Dana – Conversation Analytics Developer
+
+Bianca – Backend Developer (Workflow Automation)
+
+Augustin – Audio Optimization Engineer
+
+---
+
+ Overview (Month 2)
+During the second month, we expanded the prototype into a more advanced AI call automation system.
+We added multilingual support, improved accuracy, upgraded the backend pipeline, and introduced analytics.
+
+Main objective:
+Transform the prototype into a stable, data-driven, multilingual AI call handling backend.
+
+---
+
+ Work Completed
+Multilingual Support (Vlad & Bianca)
+Added support for English, Romanian, French, and Spanish.
+Implemented automatic language detection.
+Adapted conversational flows per language.
+
+---
+
+AI Algorithm Upgrade (Vlad)
+Improved intent detection:
+Frequency scoring
+Synonym dictionary mapping
+Early NER integration
+Context retention across turns
+Dramatically improved conversational accuracy.
+
+---
+
+API Gateway & Routing (Adrian)
+Built centralized API gateway.
+Added new endpoints:
+/language/detect
+/session/history
+/analytics/events
+Improved batching for lower latency (~30% faster).
+
+---
+
+Conversation Analytics Engine (Dana)
+Implemented logging for user intents & actions.
+Built heatmap-style analytics for conversation flow.
+Added metrics for:
+Error rate
+Average call length
+Intent distribution
+Added JSON export system for BDA course analysis.
+---
+
+Workflow Automation Logic (Bianca)
+Expanded restaurant ordering workflow to support:
+Multiple items
+Dietary preferences
+Delivery vs pickup branching
+Designed fallback logic for unclear inputs.
+
+---
+
+Audio Optimization (Augustin)
+Improved noise reduction pipeline.
+Added silence trimming.
+Optimized FFmpeg processing for real-time latency.
+
+---
+
+Load & Stress Testing (Chiril)
+Performed stress tests simulating 500+ concurrent calls.
+Identified endpoint bottlenecks.
+Documented session lock issues and helped resolve them.
+Delivered performance graphs and stability reports.
+
+---
+
+ Summary
+By the end of Month 2, the system evolved into a stable and scalable AI call center backend featuring:
+
+Multilingual interaction
+Accurate context-aware AI engine
+Data analytics
+Real-time optimized audio pipeline
+Load-tested backend services
+
+The project now has a strong foundation for continued development and deployment.
